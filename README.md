@@ -1,4 +1,4 @@
-This is EliteEon, I am a programmer working on a game in unity, and using github for the storage of this project.
+This is EliteEon, I am a programmer working on several games, and using github for the storage of this project.
 
 <!---
 EliteEon/EliteEon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
